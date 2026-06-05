@@ -1,6 +1,6 @@
 <div align="center">
 
-# O²-Searcher [39stars]
+# O²-Searcher [Paper Code Fork][39stars]
 
 <div>
 🚀 A Searching-based Agent Model for Open-Domain Open-Ended Question Answering 🌟
